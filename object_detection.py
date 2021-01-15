@@ -1,12 +1,20 @@
+#Object Detection using SSD-MobileNetv3
+#Implementation using Python and OpenCV.
+
 import cv2
 
 thres = 0.5  #threshold to detect object
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(0)    #Capture video by the default camera 
+
+#captured window setup 
 cap.set(3,1280)
 cap.set(4,720)
 cap.set(10,70)
 
+
 classlabel = []
+
+#Training data set
 classfile = 'coco.names.txt'
 with open(classfile, "rt") as f:
     classlabel = f.read().rstrip('\n').split('\n')
