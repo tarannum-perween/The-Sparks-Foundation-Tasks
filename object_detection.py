@@ -14,7 +14,7 @@ cap.set(10,70)
 
 classlabel = []
 
-#Training data set
+
 classfile = 'coco.names.txt'
 with open(classfile, "rt") as f:
     classlabel = f.read().rstrip('\n').split('\n')
