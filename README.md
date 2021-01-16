@@ -8,7 +8,11 @@ This repository contains the tasks that I completed while working as an intern f
 
 
 ### #Task 1: Object Detection / Optical Character Recognition (ORC) Object Detection
-   please click on the images to view the code.                               [<img align = right height = 50 width = 50 src = file:///C:/Users/Mr/Downloads/logo%202.png ](https://github.com/tarannum-perween/The-Sparks-Foundation-Tasks/blob/main/object_detection.py)                        [<img align = right height = 50 width = 50 src = file:///C:/Users/Mr/Downloads/logo.png](https://www.youtube.com/watch?v=r_nQ5SqkxWo&t=6s)                       
+   please click on the images to view the code.
+   
+  [<img align = right height = 50 width = 50 src = file:///C:/Users/Mr/Downloads/logo%202.png ](https://github.com/tarannum-perween/The-Sparks-Foundation-Tasks/blob/main/object_detection.py)                       
+  
+  [<img align = right height = 50 width = 50 src = file:///C:/Users/Mr/Downloads/logo.png](https://www.youtube.com/watch?v=r_nQ5SqkxWo&t=6s)                       
                                                                                
 - Implement an object detector which identifies the classes of the objects in
 an image or video. OR
